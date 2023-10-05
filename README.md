@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Abdulla Sajad</h1>
-  class="tenor-gif-embed" data-postid="23414225" data-share-method="host" data-aspect-ratio="1.20301" data-width="100%">
-        <a href="https://tenor.com/view/developer-gif-23414225">Developer GIF</a> from <a href="https://tenor.com/search/developer-gifs">Developer GIFs</a>
-    
-    <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h3 align="center">Software Architect: Engineering Excellence with Expertise From INDIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajadtlpr&label=Profile%20views&color=0e75b6&style=flat" alt="sajadtlpr" /> </p>
