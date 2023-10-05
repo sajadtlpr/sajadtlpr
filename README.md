@@ -1,36 +1,66 @@
-<h1 align="center">Hi 👋, I'm Abdulla Sajad (tlpr)</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h1 align="center">Abdulla Sajad (tlpr) - Software Engineer</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajadtlpr&label=Profile%20views&color=0e75b6&style=flat" alt="sajadtlpr" /> </p>
+<h3 align="center">Passionate about crafting clean code and building meaningful software</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajadtlpr" alt="sajadtlpr" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sajadtlpr" target="blank"><img src="https://img.shields.io/twitter/follow/sajadtlpr?logo=twitter&style=for-the-badge" alt="sajadtlpr" /></a> </p>
-
-- 🔭 I’m currently working on [A deep learning framework for natural language processing, with capabilities like semantic analysis, neural machine translation, and conversational AI](Will Update Soon :))
-
-- 🌱 I’m currently learning **Participating in MIT xPro Professional Certificate in Coding: Full Stack Development with MERN. Sharpening skills in MongoDB, Express.js, React, Node.js, and JavaScript ES6. Building interactive web apps, APIs, and authentication.**
-
-- 📝 I regularly write articles on [Twitter](Twitter)
-
-- 💬 Ask me about **Anything related to software Engineering**
-
-- 📫 How to reach me **abdullasajad01@gmail.com**
-
-- ⚡ Fun fact **I'm introverted extrovert character 😆**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sajadtlpr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sajadtlpr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdulla sajad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulla sajad" height="30" width="40" /></a>
-<a href="https://instagram.com/sajad.tlpr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajad.tlpr" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sajadtlpr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sajadtlpr" alt="Trophies" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajadtlpr&show_icons=true&locale=en&layout=compact" alt="sajadtlpr" /></p>
+<p align="center">
+  <a href="https://twitter.com/sajadtlpr">
+    <img src="https://img.shields.io/twitter/follow/sajadtlpr?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajadtlpr&show_icons=true&locale=en" alt="sajadtlpr" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajadtlpr&" alt="sajadtlpr" /></p>
+- 🔭 Currently working on [A deep learning framework for NLP].
+- 🌱 Participating in MIT xPro Professional Certificate in Coding: Full Stack Development with MERN.
+- 📝 Regularly write articles on [Twitter].
+- 💬 Ask me about anything related to software engineering.
+- 📫 Reach me at [abdullasajad01@gmail.com](mailto:abdullasajad01@gmail.com).
+- ⚡ Fun fact: I'm an introverted extrovert!
+
+---
+
+<h3 align="center">Connect with Me</h3>
+
+<p align="center">
+  <a href="https://twitter.com/sajadtlpr">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/abdullasajad">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/sajad.tlpr">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">Languages and Tools</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  <!-- Add more icons here -->
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajadtlpr&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sajadtlpr&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajadtlpr&" alt="GitHub Streak" />
+</p>
