@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulla Sajad</h1>
 <h3 align="center">Software Architect: Engineering Excellence with Expertise From INDIA</h3>
-<p align="left"> <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif" /> </p>
+<p align="centre"> <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif" /> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajadtlpr&label=Profile%20views&color=0e75b6&style=flat" alt="sajadtlpr" /> </p>
