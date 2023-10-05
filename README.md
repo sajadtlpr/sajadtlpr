@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/sajadtlpr" target="blank"><img src="https://img.shields.io/twitter/follow/sajadtlpr?logo=twitter&style=for-the-badge" alt="sajadtlpr" /></a> </p>
 
-- 🔭 I’m currently working on **SOCIE: Pioneering a Distraction-Free, Connecting App**
+- 🔭 I’m currently working on **SOCIE: Pioneering a Distraction-Free, Connecting App.**
 
-- 🌱 I’m currently learning **📚 Diving into Android App Development and Mastering Web Technologies, including React**
+- 🌱 I’m currently learning **📚 Diving into Android App Development and Mastering Web Technologies, including React.**
 
-- 👯 I’m looking to collaborate on **Exploring Collaborative Opportunities in Innovative Tech Projects**
+- 👯 I’m looking to collaborate on **Exploring Collaborative Opportunities in Innovative Tech Projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sajadtlpr/](https://github.com/sajadtlpr/)
 
